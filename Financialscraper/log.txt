@@ -1,0 +1,7 @@
+2017-06-06 18:56:27 -> =================== Start ===================
+2017-06-06 18:56:41 -> https://www.investing.com/equities/chevron, CashFlow, quarterly
+2017-06-06 18:56:55 -> https://www.investing.com/equities/chevron, BalanceSheet, quarterly
+2017-06-06 18:57:07 -> https://www.investing.com/equities/chevron, IncomeStatement, quarterly
+2017-06-06 18:57:26 -> https://www.investing.com/equities/siemens, CashFlow, quarterly
+2017-06-06 18:57:38 -> https://www.investing.com/equities/siemens, BalanceSheet, quarterly
+2017-06-06 18:57:50 -> https://www.investing.com/equities/siemens, IncomeStatement, quarterly
