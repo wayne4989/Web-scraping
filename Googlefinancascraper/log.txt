@@ -1,0 +1,3 @@
+2017-06-06 19:26:04 -> =================== Start ===================
+2017-06-06 19:26:56 -> https://www.google.com/finance/historical?q=INDEXSP%3ASPGSPL, param=2
+2017-06-06 19:27:03 -> https://www.google.com/finance/historical?q=INDEXDJX%3ADJUSOS, param=2
