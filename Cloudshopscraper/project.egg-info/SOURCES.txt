@@ -1,0 +1,13 @@
+setup.py
+Cloudshopscraper/__init__.py
+Cloudshopscraper/items.py
+Cloudshopscraper/pipelines.py
+Cloudshopscraper/settings.py
+Cloudshopscraper/spiders/__init__.py
+Cloudshopscraper/spiders/cloudshowindustryspider.py
+Cloudshopscraper/spiders/cloudshowspider.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
