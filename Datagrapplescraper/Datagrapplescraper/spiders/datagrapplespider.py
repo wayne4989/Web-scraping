@@ -55,8 +55,8 @@ class DatagrapplespiderSpider(scrapy.Spider):
             url="https://www.datagrapple.com/Account/Login",
             formdata={
                 '__RequestVerificationToken': value,
-                'UserName':'thomas1068',
-                'Password':'dnflgmlakd888'
+                'UserName':'xxx',
+                'Password':'xxx'
             },
             callback=self.after_login
         )
