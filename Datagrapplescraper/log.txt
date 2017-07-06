@@ -1,0 +1,15 @@
+2017-06-06 18:05:19 -> varid=249, year=10, param=max
+2017-06-06 18:05:22 -> varid=249, year=7, param=max
+2017-06-06 18:05:26 -> varid=249, year=5, param=max
+2017-06-06 18:05:30 -> varid=249, year=3, param=max
+2017-06-06 18:05:34 -> varid=249, year=1, param=max
+2017-06-06 18:05:37 -> varid=92541, year=10, param=max
+2017-06-06 18:05:41 -> varid=92541, year=7, param=max
+2017-06-06 18:05:44 -> varid=92541, year=5, param=max
+2017-06-06 18:05:47 -> varid=92541, year=3, param=max
+2017-06-06 18:05:50 -> varid=92541, year=1, param=max
+2017-06-06 18:05:53 -> varid=114, year=10, param=max
+2017-06-06 18:05:57 -> varid=114, year=7, param=max
+2017-06-06 18:06:01 -> varid=114, year=5, param=max
+2017-06-06 18:06:05 -> varid=114, year=3, param=max
+2017-06-06 18:06:09 -> varid=114, year=1, param=max
