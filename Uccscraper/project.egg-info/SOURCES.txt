@@ -1,0 +1,12 @@
+setup.py
+Uccscraper/__init__.py
+Uccscraper/items.py
+Uccscraper/pipelines.py
+Uccscraper/settings.py
+Uccscraper/spiders/__init__.py
+Uccscraper/spiders/uccspider.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
