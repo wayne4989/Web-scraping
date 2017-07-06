@@ -1,0 +1,874 @@
+2017-07-06 08:09 - scrapex.core - core - __init__() - INFO: start
+2017-07-06 08:09 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.573468&sw_lat=43.602770&sw_lng=-79.579468&zoom=15&search_by_map=true
+2017-07-06 08:09 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.579468) - (43.608770, -79.573468) => All 0 rentals
+2017-07-06 08:09 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.568468&sw_lat=43.602770&sw_lng=-79.574468&zoom=15&search_by_map=true
+2017-07-06 08:09 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.574468) - (43.608770, -79.568468) => All 0 rentals
+2017-07-06 08:09 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.563468&sw_lat=43.602770&sw_lng=-79.569468&zoom=15&search_by_map=true
+2017-07-06 08:09 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.569468) - (43.608770, -79.563468) => All 0 rentals
+2017-07-06 08:09 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.558468&sw_lat=43.602770&sw_lng=-79.564468&zoom=15&search_by_map=true
+2017-07-06 08:09 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/19518349
+2017-07-06 08:09 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/19518349/personalization.json
+2017-07-06 08:09 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=2&allow_override[]=&ne_lat=43.608770&ne_lng=-79.558468&sw_lat=43.602770&sw_lng=-79.564468&zoom=15&search_by_map=true
+2017-07-06 08:09 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.564468) - (43.608770, -79.558468) => All 1 rentals
+2017-07-06 08:09 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.553468&sw_lat=43.602770&sw_lng=-79.559468&zoom=15&search_by_map=true
+2017-07-06 08:09 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/7246693
+2017-07-06 08:10 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/7246693/personalization.json
+2017-07-06 08:10 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/11773563
+2017-07-06 08:10 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/11773563/personalization.json
+2017-07-06 08:10 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=2&allow_override[]=&ne_lat=43.608770&ne_lng=-79.553468&sw_lat=43.602770&sw_lng=-79.559468&zoom=15&search_by_map=true
+2017-07-06 08:10 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.559468) - (43.608770, -79.553468) => All 2 rentals
+2017-07-06 08:10 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.548468&sw_lat=43.602770&sw_lng=-79.554468&zoom=15&search_by_map=true
+2017-07-06 08:10 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/13224752
+2017-07-06 08:10 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/13224752/personalization.json
+2017-07-06 08:10 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/9755875
+2017-07-06 08:10 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/9755875/personalization.json
+2017-07-06 08:10 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/13477083
+2017-07-06 08:10 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/13477083/personalization.json
+2017-07-06 08:10 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=2&allow_override[]=&ne_lat=43.608770&ne_lng=-79.548468&sw_lat=43.602770&sw_lng=-79.554468&zoom=15&search_by_map=true
+2017-07-06 08:10 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.554468) - (43.608770, -79.548468) => All 3 rentals
+2017-07-06 08:10 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.543468&sw_lat=43.602770&sw_lng=-79.549468&zoom=15&search_by_map=true
+2017-07-06 08:10 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.549468) - (43.608770, -79.543468) => All 0 rentals
+2017-07-06 08:10 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.538468&sw_lat=43.602770&sw_lng=-79.544468&zoom=15&search_by_map=true
+2017-07-06 08:11 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/17845133
+2017-07-06 08:11 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/17845133/personalization.json
+2017-07-06 08:11 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/3700534
+2017-07-06 08:11 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/3700534/personalization.json
+2017-07-06 08:11 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=2&allow_override[]=&ne_lat=43.608770&ne_lng=-79.538468&sw_lat=43.602770&sw_lng=-79.544468&zoom=15&search_by_map=true
+2017-07-06 08:11 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.544468) - (43.608770, -79.538468) => All 2 rentals
+2017-07-06 08:11 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.533468&sw_lat=43.602770&sw_lng=-79.539468&zoom=15&search_by_map=true
+2017-07-06 08:11 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/18199503
+2017-07-06 08:11 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/18199503/personalization.json
+2017-07-06 08:11 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=2&allow_override[]=&ne_lat=43.608770&ne_lng=-79.533468&sw_lat=43.602770&sw_lng=-79.539468&zoom=15&search_by_map=true
+2017-07-06 08:11 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.539468) - (43.608770, -79.533468) => All 1 rentals
+2017-07-06 08:11 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.528468&sw_lat=43.602770&sw_lng=-79.534468&zoom=15&search_by_map=true
+2017-07-06 08:11 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/18884440
+2017-07-06 08:11 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/18884440/personalization.json
+2017-07-06 08:11 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/7966411
+2017-07-06 08:11 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/7966411/personalization.json
+2017-07-06 08:11 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/7501441
+2017-07-06 08:12 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/7501441/personalization.json
+2017-07-06 08:12 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=2&allow_override[]=&ne_lat=43.608770&ne_lng=-79.528468&sw_lat=43.602770&sw_lng=-79.534468&zoom=15&search_by_map=true
+2017-07-06 08:12 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.534468) - (43.608770, -79.528468) => All 3 rentals
+2017-07-06 08:12 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.523468&sw_lat=43.602770&sw_lng=-79.529468&zoom=15&search_by_map=true
+2017-07-06 08:12 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/16507113
+2017-07-06 08:12 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/16507113/personalization.json
+2017-07-06 08:12 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=2&allow_override[]=&ne_lat=43.608770&ne_lng=-79.523468&sw_lat=43.602770&sw_lng=-79.529468&zoom=15&search_by_map=true
+2017-07-06 08:12 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.529468) - (43.608770, -79.523468) => All 1 rentals
+2017-07-06 08:12 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.518468&sw_lat=43.602770&sw_lng=-79.524468&zoom=15&search_by_map=true
+2017-07-06 08:12 - scrapex - airbnb - search_boundingbox() - INFO: Duplicated room_id -> 16507113
+2017-07-06 08:12 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=2&allow_override[]=&ne_lat=43.608770&ne_lng=-79.518468&sw_lat=43.602770&sw_lng=-79.524468&zoom=15&search_by_map=true
+2017-07-06 08:12 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.524468) - (43.608770, -79.518468) => All 1 rentals
+2017-07-06 08:12 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.513468&sw_lat=43.602770&sw_lng=-79.519468&zoom=15&search_by_map=true
+2017-07-06 08:12 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/13435303
+2017-07-06 08:12 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/13435303/personalization.json
+2017-07-06 08:12 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=2&allow_override[]=&ne_lat=43.608770&ne_lng=-79.513468&sw_lat=43.602770&sw_lng=-79.519468&zoom=15&search_by_map=true
+2017-07-06 08:12 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.519468) - (43.608770, -79.513468) => All 1 rentals
+2017-07-06 08:12 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.508468&sw_lat=43.602770&sw_lng=-79.514468&zoom=15&search_by_map=true
+2017-07-06 08:12 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.514468) - (43.608770, -79.508468) => All 0 rentals
+2017-07-06 08:12 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.503468&sw_lat=43.602770&sw_lng=-79.509468&zoom=15&search_by_map=true
+2017-07-06 08:12 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/17847704
+2017-07-06 08:12 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/17847704/personalization.json
+2017-07-06 08:13 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/17415563
+2017-07-06 08:13 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/17415563/personalization.json
+2017-07-06 08:13 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/5785888
+2017-07-06 08:13 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/5785888/personalization.json
+2017-07-06 08:13 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=2&allow_override[]=&ne_lat=43.608770&ne_lng=-79.503468&sw_lat=43.602770&sw_lng=-79.509468&zoom=15&search_by_map=true
+2017-07-06 08:13 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.509468) - (43.608770, -79.503468) => All 3 rentals
+2017-07-06 08:13 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.498468&sw_lat=43.602770&sw_lng=-79.504468&zoom=15&search_by_map=true
+2017-07-06 08:13 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/10879388
+2017-07-06 08:13 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/10879388/personalization.json
+2017-07-06 08:13 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/12810167
+2017-07-06 08:13 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/12810167/personalization.json
+2017-07-06 08:13 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/5258441
+2017-07-06 08:13 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/5258441/personalization.json
+2017-07-06 08:13 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=2&allow_override[]=&ne_lat=43.608770&ne_lng=-79.498468&sw_lat=43.602770&sw_lng=-79.504468&zoom=15&search_by_map=true
+2017-07-06 08:13 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.504468) - (43.608770, -79.498468) => All 3 rentals
+2017-07-06 08:13 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.493468&sw_lat=43.602770&sw_lng=-79.499468&zoom=15&search_by_map=true
+2017-07-06 08:13 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/16204975
+2017-07-06 08:14 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/16204975/personalization.json
+2017-07-06 08:14 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/13699080
+2017-07-06 08:14 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/13699080/personalization.json
+2017-07-06 08:14 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/18124029
+2017-07-06 08:14 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/18124029/personalization.json
+2017-07-06 08:14 - scrapex - airbnb - search_boundingbox() - INFO: Duplicated room_id -> 12810167
+2017-07-06 08:14 - scrapex - airbnb - search_boundingbox() - INFO: Duplicated room_id -> 5258441
+2017-07-06 08:14 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/14738625
+2017-07-06 08:14 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/14738625/personalization.json
+2017-07-06 08:14 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/15830203
+2017-07-06 08:14 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/15830203/personalization.json
+2017-07-06 08:14 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=2&allow_override[]=&ne_lat=43.608770&ne_lng=-79.493468&sw_lat=43.602770&sw_lng=-79.499468&zoom=15&search_by_map=true
+2017-07-06 08:14 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.499468) - (43.608770, -79.493468) => All 7 rentals
+2017-07-06 08:14 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.488468&sw_lat=43.602770&sw_lng=-79.494468&zoom=15&search_by_map=true
+2017-07-06 08:14 - scrapex - airbnb - search_boundingbox() - INFO: Duplicated room_id -> 16204975
+2017-07-06 08:14 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/5706017
+2017-07-06 08:14 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/5706017/personalization.json
+2017-07-06 08:14 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=2&allow_override[]=&ne_lat=43.608770&ne_lng=-79.488468&sw_lat=43.602770&sw_lng=-79.494468&zoom=15&search_by_map=true
+2017-07-06 08:15 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.494468) - (43.608770, -79.488468) => All 2 rentals
+2017-07-06 08:15 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.483468&sw_lat=43.602770&sw_lng=-79.489468&zoom=15&search_by_map=true
+2017-07-06 08:15 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.489468) - (43.608770, -79.483468) => All 0 rentals
+2017-07-06 08:15 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.478468&sw_lat=43.602770&sw_lng=-79.484468&zoom=15&search_by_map=true
+2017-07-06 08:15 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.484468) - (43.608770, -79.478468) => All 0 rentals
+2017-07-06 08:15 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.473468&sw_lat=43.602770&sw_lng=-79.479468&zoom=15&search_by_map=true
+2017-07-06 08:15 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.479468) - (43.608770, -79.473468) => All 0 rentals
+2017-07-06 08:15 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.468468&sw_lat=43.602770&sw_lng=-79.474468&zoom=15&search_by_map=true
+2017-07-06 08:15 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.474468) - (43.608770, -79.468468) => All 0 rentals
+2017-07-06 08:15 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.463468&sw_lat=43.602770&sw_lng=-79.469468&zoom=15&search_by_map=true
+2017-07-06 08:15 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.469468) - (43.608770, -79.463468) => All 0 rentals
+2017-07-06 08:15 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.458468&sw_lat=43.602770&sw_lng=-79.464468&zoom=15&search_by_map=true
+2017-07-06 08:15 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.464468) - (43.608770, -79.458468) => All 0 rentals
+2017-07-06 08:15 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.453468&sw_lat=43.602770&sw_lng=-79.459468&zoom=15&search_by_map=true
+2017-07-06 08:15 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.459468) - (43.608770, -79.453468) => All 0 rentals
+2017-07-06 08:15 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.448468&sw_lat=43.602770&sw_lng=-79.454468&zoom=15&search_by_map=true
+2017-07-06 08:15 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.454468) - (43.608770, -79.448468) => All 0 rentals
+2017-07-06 08:15 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.443468&sw_lat=43.602770&sw_lng=-79.449468&zoom=15&search_by_map=true
+2017-07-06 08:15 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.449468) - (43.608770, -79.443468) => All 0 rentals
+2017-07-06 08:15 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.438468&sw_lat=43.602770&sw_lng=-79.444468&zoom=15&search_by_map=true
+2017-07-06 08:15 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.444468) - (43.608770, -79.438468) => All 0 rentals
+2017-07-06 08:15 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.433468&sw_lat=43.602770&sw_lng=-79.439468&zoom=15&search_by_map=true
+2017-07-06 08:15 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.439468) - (43.608770, -79.433468) => All 0 rentals
+2017-07-06 08:15 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.428468&sw_lat=43.602770&sw_lng=-79.434468&zoom=15&search_by_map=true
+2017-07-06 08:15 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.434468) - (43.608770, -79.428468) => All 0 rentals
+2017-07-06 08:15 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.423468&sw_lat=43.602770&sw_lng=-79.429468&zoom=15&search_by_map=true
+2017-07-06 08:15 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.429468) - (43.608770, -79.423468) => All 0 rentals
+2017-07-06 08:15 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.418468&sw_lat=43.602770&sw_lng=-79.424468&zoom=15&search_by_map=true
+2017-07-06 08:15 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.424468) - (43.608770, -79.418468) => All 0 rentals
+2017-07-06 08:15 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.413468&sw_lat=43.602770&sw_lng=-79.419468&zoom=15&search_by_map=true
+2017-07-06 08:15 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.419468) - (43.608770, -79.413468) => All 0 rentals
+2017-07-06 08:15 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.408468&sw_lat=43.602770&sw_lng=-79.414468&zoom=15&search_by_map=true
+2017-07-06 08:15 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.414468) - (43.608770, -79.408468) => All 0 rentals
+2017-07-06 08:15 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.403468&sw_lat=43.602770&sw_lng=-79.409468&zoom=15&search_by_map=true
+2017-07-06 08:16 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.409468) - (43.608770, -79.403468) => All 0 rentals
+2017-07-06 08:16 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.398468&sw_lat=43.602770&sw_lng=-79.404468&zoom=15&search_by_map=true
+2017-07-06 08:16 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.404468) - (43.608770, -79.398468) => All 0 rentals
+2017-07-06 08:16 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.393468&sw_lat=43.602770&sw_lng=-79.399468&zoom=15&search_by_map=true
+2017-07-06 08:16 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.399468) - (43.608770, -79.393468) => All 0 rentals
+2017-07-06 08:16 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.388468&sw_lat=43.602770&sw_lng=-79.394468&zoom=15&search_by_map=true
+2017-07-06 08:16 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.394468) - (43.608770, -79.388468) => All 0 rentals
+2017-07-06 08:16 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.383468&sw_lat=43.602770&sw_lng=-79.389468&zoom=15&search_by_map=true
+2017-07-06 08:16 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.389468) - (43.608770, -79.383468) => All 0 rentals
+2017-07-06 08:16 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.378468&sw_lat=43.602770&sw_lng=-79.384468&zoom=15&search_by_map=true
+2017-07-06 08:16 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.384468) - (43.608770, -79.378468) => All 0 rentals
+2017-07-06 08:16 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.373468&sw_lat=43.602770&sw_lng=-79.379468&zoom=15&search_by_map=true
+2017-07-06 08:16 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.379468) - (43.608770, -79.373468) => All 0 rentals
+2017-07-06 08:16 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.368468&sw_lat=43.602770&sw_lng=-79.374468&zoom=15&search_by_map=true
+2017-07-06 08:16 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.374468) - (43.608770, -79.368468) => All 0 rentals
+2017-07-06 08:16 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.363468&sw_lat=43.602770&sw_lng=-79.369468&zoom=15&search_by_map=true
+2017-07-06 08:16 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.369468) - (43.608770, -79.363468) => All 0 rentals
+2017-07-06 08:16 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.358468&sw_lat=43.602770&sw_lng=-79.364468&zoom=15&search_by_map=true
+2017-07-06 08:16 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.364468) - (43.608770, -79.358468) => All 0 rentals
+2017-07-06 08:16 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.353468&sw_lat=43.602770&sw_lng=-79.359468&zoom=15&search_by_map=true
+2017-07-06 08:16 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.359468) - (43.608770, -79.353468) => All 0 rentals
+2017-07-06 08:16 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.348468&sw_lat=43.602770&sw_lng=-79.354468&zoom=15&search_by_map=true
+2017-07-06 08:16 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.354468) - (43.608770, -79.348468) => All 0 rentals
+2017-07-06 08:16 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.343468&sw_lat=43.602770&sw_lng=-79.349468&zoom=15&search_by_map=true
+2017-07-06 08:16 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.349468) - (43.608770, -79.343468) => All 0 rentals
+2017-07-06 08:16 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.338468&sw_lat=43.602770&sw_lng=-79.344468&zoom=15&search_by_map=true
+2017-07-06 08:16 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.344468) - (43.608770, -79.338468) => All 0 rentals
+2017-07-06 08:16 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.333468&sw_lat=43.602770&sw_lng=-79.339468&zoom=15&search_by_map=true
+2017-07-06 08:16 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.339468) - (43.608770, -79.333468) => All 0 rentals
+2017-07-06 08:16 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.328468&sw_lat=43.602770&sw_lng=-79.334468&zoom=15&search_by_map=true
+2017-07-06 08:16 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.334468) - (43.608770, -79.328468) => All 0 rentals
+2017-07-06 08:16 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.323468&sw_lat=43.602770&sw_lng=-79.329468&zoom=15&search_by_map=true
+2017-07-06 08:16 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.329468) - (43.608770, -79.323468) => All 0 rentals
+2017-07-06 08:16 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.318468&sw_lat=43.602770&sw_lng=-79.324468&zoom=15&search_by_map=true
+2017-07-06 08:16 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.324468) - (43.608770, -79.318468) => All 0 rentals
+2017-07-06 08:16 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.313468&sw_lat=43.602770&sw_lng=-79.319468&zoom=15&search_by_map=true
+2017-07-06 08:16 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.319468) - (43.608770, -79.313468) => All 0 rentals
+2017-07-06 08:16 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.308468&sw_lat=43.602770&sw_lng=-79.314468&zoom=15&search_by_map=true
+2017-07-06 08:17 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.314468) - (43.608770, -79.308468) => All 0 rentals
+2017-07-06 08:17 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.303468&sw_lat=43.602770&sw_lng=-79.309468&zoom=15&search_by_map=true
+2017-07-06 08:17 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.309468) - (43.608770, -79.303468) => All 0 rentals
+2017-07-06 08:17 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.298468&sw_lat=43.602770&sw_lng=-79.304468&zoom=15&search_by_map=true
+2017-07-06 08:17 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.304468) - (43.608770, -79.298468) => All 0 rentals
+2017-07-06 08:17 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.293468&sw_lat=43.602770&sw_lng=-79.299468&zoom=15&search_by_map=true
+2017-07-06 08:17 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.299468) - (43.608770, -79.293468) => All 0 rentals
+2017-07-06 08:17 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.288468&sw_lat=43.602770&sw_lng=-79.294468&zoom=15&search_by_map=true
+2017-07-06 08:17 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.294468) - (43.608770, -79.288468) => All 0 rentals
+2017-07-06 08:17 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.283468&sw_lat=43.602770&sw_lng=-79.289468&zoom=15&search_by_map=true
+2017-07-06 08:17 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.289468) - (43.608770, -79.283468) => All 0 rentals
+2017-07-06 08:17 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.278468&sw_lat=43.602770&sw_lng=-79.284468&zoom=15&search_by_map=true
+2017-07-06 08:17 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.284468) - (43.608770, -79.278468) => All 0 rentals
+2017-07-06 08:17 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.273468&sw_lat=43.602770&sw_lng=-79.279468&zoom=15&search_by_map=true
+2017-07-06 08:17 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.279468) - (43.608770, -79.273468) => All 0 rentals
+2017-07-06 08:17 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.268468&sw_lat=43.602770&sw_lng=-79.274468&zoom=15&search_by_map=true
+2017-07-06 08:17 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.274468) - (43.608770, -79.268468) => All 0 rentals
+2017-07-06 08:17 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.263468&sw_lat=43.602770&sw_lng=-79.269468&zoom=15&search_by_map=true
+2017-07-06 08:17 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.269468) - (43.608770, -79.263468) => All 0 rentals
+2017-07-06 08:17 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.258468&sw_lat=43.602770&sw_lng=-79.264468&zoom=15&search_by_map=true
+2017-07-06 08:17 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.264468) - (43.608770, -79.258468) => All 0 rentals
+2017-07-06 08:17 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.253468&sw_lat=43.602770&sw_lng=-79.259468&zoom=15&search_by_map=true
+2017-07-06 08:17 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.259468) - (43.608770, -79.253468) => All 0 rentals
+2017-07-06 08:17 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.248468&sw_lat=43.602770&sw_lng=-79.254468&zoom=15&search_by_map=true
+2017-07-06 08:17 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.254468) - (43.608770, -79.248468) => All 0 rentals
+2017-07-06 08:17 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.243468&sw_lat=43.602770&sw_lng=-79.249468&zoom=15&search_by_map=true
+2017-07-06 08:17 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.249468) - (43.608770, -79.243468) => All 0 rentals
+2017-07-06 08:17 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.238468&sw_lat=43.602770&sw_lng=-79.244468&zoom=15&search_by_map=true
+2017-07-06 08:17 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.244468) - (43.608770, -79.238468) => All 0 rentals
+2017-07-06 08:17 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.233468&sw_lat=43.602770&sw_lng=-79.239468&zoom=15&search_by_map=true
+2017-07-06 08:17 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.239468) - (43.608770, -79.233468) => All 0 rentals
+2017-07-06 08:17 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.228468&sw_lat=43.602770&sw_lng=-79.234468&zoom=15&search_by_map=true
+2017-07-06 08:17 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.234468) - (43.608770, -79.228468) => All 0 rentals
+2017-07-06 08:17 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.223468&sw_lat=43.602770&sw_lng=-79.229468&zoom=15&search_by_map=true
+2017-07-06 08:18 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.229468) - (43.608770, -79.223468) => All 0 rentals
+2017-07-06 08:18 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.218468&sw_lat=43.602770&sw_lng=-79.224468&zoom=15&search_by_map=true
+2017-07-06 08:18 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.224468) - (43.608770, -79.218468) => All 0 rentals
+2017-07-06 08:18 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.213468&sw_lat=43.602770&sw_lng=-79.219468&zoom=15&search_by_map=true
+2017-07-06 08:18 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.219468) - (43.608770, -79.213468) => All 0 rentals
+2017-07-06 08:18 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.208468&sw_lat=43.602770&sw_lng=-79.214468&zoom=15&search_by_map=true
+2017-07-06 08:18 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.214468) - (43.608770, -79.208468) => All 0 rentals
+2017-07-06 08:18 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.203468&sw_lat=43.602770&sw_lng=-79.209468&zoom=15&search_by_map=true
+2017-07-06 08:18 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.209468) - (43.608770, -79.203468) => All 0 rentals
+2017-07-06 08:18 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.198468&sw_lat=43.602770&sw_lng=-79.204468&zoom=15&search_by_map=true
+2017-07-06 08:18 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.204468) - (43.608770, -79.198468) => All 0 rentals
+2017-07-06 08:18 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.193468&sw_lat=43.602770&sw_lng=-79.199468&zoom=15&search_by_map=true
+2017-07-06 08:18 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.199468) - (43.608770, -79.193468) => All 0 rentals
+2017-07-06 08:18 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.188468&sw_lat=43.602770&sw_lng=-79.194468&zoom=15&search_by_map=true
+2017-07-06 08:18 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.194468) - (43.608770, -79.188468) => All 0 rentals
+2017-07-06 08:18 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.183468&sw_lat=43.602770&sw_lng=-79.189468&zoom=15&search_by_map=true
+2017-07-06 08:18 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.189468) - (43.608770, -79.183468) => All 0 rentals
+2017-07-06 08:18 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.178468&sw_lat=43.602770&sw_lng=-79.184468&zoom=15&search_by_map=true
+2017-07-06 08:18 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.184468) - (43.608770, -79.178468) => All 0 rentals
+2017-07-06 08:18 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.173468&sw_lat=43.602770&sw_lng=-79.179468&zoom=15&search_by_map=true
+2017-07-06 08:18 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.179468) - (43.608770, -79.173468) => All 0 rentals
+2017-07-06 08:18 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.168468&sw_lat=43.602770&sw_lng=-79.174468&zoom=15&search_by_map=true
+2017-07-06 08:18 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.174468) - (43.608770, -79.168468) => All 0 rentals
+2017-07-06 08:18 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.163468&sw_lat=43.602770&sw_lng=-79.169468&zoom=15&search_by_map=true
+2017-07-06 08:18 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.169468) - (43.608770, -79.163468) => All 0 rentals
+2017-07-06 08:18 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.158468&sw_lat=43.602770&sw_lng=-79.164468&zoom=15&search_by_map=true
+2017-07-06 08:18 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.164468) - (43.608770, -79.158468) => All 0 rentals
+2017-07-06 08:18 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.153468&sw_lat=43.602770&sw_lng=-79.159468&zoom=15&search_by_map=true
+2017-07-06 08:18 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.159468) - (43.608770, -79.153468) => All 0 rentals
+2017-07-06 08:18 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.148468&sw_lat=43.602770&sw_lng=-79.154468&zoom=15&search_by_map=true
+2017-07-06 08:18 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.154468) - (43.608770, -79.148468) => All 0 rentals
+2017-07-06 08:18 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.143468&sw_lat=43.602770&sw_lng=-79.149468&zoom=15&search_by_map=true
+2017-07-06 08:19 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.149468) - (43.608770, -79.143468) => All 0 rentals
+2017-07-06 08:19 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.608770&ne_lng=-79.138468&sw_lat=43.602770&sw_lng=-79.144468&zoom=15&search_by_map=true
+2017-07-06 08:19 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.602770, -79.144468) - (43.608770, -79.138468) => All 0 rentals
+2017-07-06 08:19 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.573468&sw_lat=43.607770&sw_lng=-79.579468&zoom=15&search_by_map=true
+2017-07-06 08:19 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.579468) - (43.613770, -79.573468) => All 0 rentals
+2017-07-06 08:19 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.568468&sw_lat=43.607770&sw_lng=-79.574468&zoom=15&search_by_map=true
+2017-07-06 08:19 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.574468) - (43.613770, -79.568468) => All 0 rentals
+2017-07-06 08:19 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.563468&sw_lat=43.607770&sw_lng=-79.569468&zoom=15&search_by_map=true
+2017-07-06 08:19 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.569468) - (43.613770, -79.563468) => All 0 rentals
+2017-07-06 08:19 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.558468&sw_lat=43.607770&sw_lng=-79.564468&zoom=15&search_by_map=true
+2017-07-06 08:19 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/15523284
+2017-07-06 08:19 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/15523284/personalization.json
+2017-07-06 08:19 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/13538499
+2017-07-06 08:19 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/13538499/personalization.json
+2017-07-06 08:19 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/18827774
+2017-07-06 08:19 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/18827774/personalization.json
+2017-07-06 08:19 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/18877281
+2017-07-06 08:19 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/18877281/personalization.json
+2017-07-06 08:20 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=2&allow_override[]=&ne_lat=43.613770&ne_lng=-79.558468&sw_lat=43.607770&sw_lng=-79.564468&zoom=15&search_by_map=true
+2017-07-06 08:20 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.564468) - (43.613770, -79.558468) => All 4 rentals
+2017-07-06 08:20 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.553468&sw_lat=43.607770&sw_lng=-79.559468&zoom=15&search_by_map=true
+2017-07-06 08:20 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/2456920
+2017-07-06 08:20 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/2456920/personalization.json
+2017-07-06 08:20 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/16230002
+2017-07-06 08:20 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/16230002/personalization.json
+2017-07-06 08:20 - scrapex - airbnb - search_boundingbox() - INFO: Duplicated room_id -> 15523284
+2017-07-06 08:20 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/5642413
+2017-07-06 08:20 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/5642413/personalization.json
+2017-07-06 08:20 - scrapex - airbnb - search_boundingbox() - INFO: Duplicated room_id -> 7246693
+2017-07-06 08:20 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/6854033
+2017-07-06 08:20 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/6854033/personalization.json
+2017-07-06 08:20 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/18935316
+2017-07-06 08:20 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/18935316/personalization.json
+2017-07-06 08:20 - scrapex - airbnb - search_boundingbox() - INFO: Duplicated room_id -> 11773563
+2017-07-06 08:20 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/7111847
+2017-07-06 08:21 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/7111847/personalization.json
+2017-07-06 08:21 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=2&allow_override[]=&ne_lat=43.613770&ne_lng=-79.553468&sw_lat=43.607770&sw_lng=-79.559468&zoom=15&search_by_map=true
+2017-07-06 08:21 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.559468) - (43.613770, -79.553468) => All 9 rentals
+2017-07-06 08:21 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.548468&sw_lat=43.607770&sw_lng=-79.554468&zoom=15&search_by_map=true
+2017-07-06 08:21 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/14282377
+2017-07-06 08:21 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/14282377/personalization.json
+2017-07-06 08:21 - scrapex - airbnb - search_boundingbox() - INFO: Duplicated room_id -> 13224752
+2017-07-06 08:21 - scrapex - airbnb - search_boundingbox() - INFO: Duplicated room_id -> 13477083
+2017-07-06 08:21 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/7256445
+2017-07-06 08:21 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/7256445/personalization.json
+2017-07-06 08:21 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=2&allow_override[]=&ne_lat=43.613770&ne_lng=-79.548468&sw_lat=43.607770&sw_lng=-79.554468&zoom=15&search_by_map=true
+2017-07-06 08:21 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.554468) - (43.613770, -79.548468) => All 4 rentals
+2017-07-06 08:21 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.543468&sw_lat=43.607770&sw_lng=-79.549468&zoom=15&search_by_map=true
+2017-07-06 08:21 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.549468) - (43.613770, -79.543468) => All 0 rentals
+2017-07-06 08:21 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.538468&sw_lat=43.607770&sw_lng=-79.544468&zoom=15&search_by_map=true
+2017-07-06 08:21 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/18188862
+2017-07-06 08:21 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/18188862/personalization.json
+2017-07-06 08:21 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=2&allow_override[]=&ne_lat=43.613770&ne_lng=-79.538468&sw_lat=43.607770&sw_lng=-79.544468&zoom=15&search_by_map=true
+2017-07-06 08:21 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.544468) - (43.613770, -79.538468) => All 1 rentals
+2017-07-06 08:21 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.533468&sw_lat=43.607770&sw_lng=-79.539468&zoom=15&search_by_map=true
+2017-07-06 08:21 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.539468) - (43.613770, -79.533468) => All 0 rentals
+2017-07-06 08:21 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.528468&sw_lat=43.607770&sw_lng=-79.534468&zoom=15&search_by_map=true
+2017-07-06 08:22 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.534468) - (43.613770, -79.528468) => All 0 rentals
+2017-07-06 08:22 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.523468&sw_lat=43.607770&sw_lng=-79.529468&zoom=15&search_by_map=true
+2017-07-06 08:22 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.529468) - (43.613770, -79.523468) => All 0 rentals
+2017-07-06 08:22 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.518468&sw_lat=43.607770&sw_lng=-79.524468&zoom=15&search_by_map=true
+2017-07-06 08:22 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.524468) - (43.613770, -79.518468) => All 0 rentals
+2017-07-06 08:22 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.513468&sw_lat=43.607770&sw_lng=-79.519468&zoom=15&search_by_map=true
+2017-07-06 08:22 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.519468) - (43.613770, -79.513468) => All 0 rentals
+2017-07-06 08:22 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.508468&sw_lat=43.607770&sw_lng=-79.514468&zoom=15&search_by_map=true
+2017-07-06 08:22 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.514468) - (43.613770, -79.508468) => All 0 rentals
+2017-07-06 08:22 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.503468&sw_lat=43.607770&sw_lng=-79.509468&zoom=15&search_by_map=true
+2017-07-06 08:22 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/18786273
+2017-07-06 08:22 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/18786273/personalization.json
+2017-07-06 08:22 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=2&allow_override[]=&ne_lat=43.613770&ne_lng=-79.503468&sw_lat=43.607770&sw_lng=-79.509468&zoom=15&search_by_map=true
+2017-07-06 08:22 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.509468) - (43.613770, -79.503468) => All 1 rentals
+2017-07-06 08:22 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.498468&sw_lat=43.607770&sw_lng=-79.504468&zoom=15&search_by_map=true
+2017-07-06 08:22 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/18993289
+2017-07-06 08:22 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/18993289/personalization.json
+2017-07-06 08:22 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/5855569
+2017-07-06 08:22 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/5855569/personalization.json
+2017-07-06 08:22 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=2&allow_override[]=&ne_lat=43.613770&ne_lng=-79.498468&sw_lat=43.607770&sw_lng=-79.504468&zoom=15&search_by_map=true
+2017-07-06 08:22 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.504468) - (43.613770, -79.498468) => All 2 rentals
+2017-07-06 08:22 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.493468&sw_lat=43.607770&sw_lng=-79.499468&zoom=15&search_by_map=true
+2017-07-06 08:23 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/3041558
+2017-07-06 08:23 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/3041558/personalization.json
+2017-07-06 08:23 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/7676729
+2017-07-06 08:23 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/7676729/personalization.json
+2017-07-06 08:23 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/16113093
+2017-07-06 08:23 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/16113093/personalization.json
+2017-07-06 08:23 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=2&allow_override[]=&ne_lat=43.613770&ne_lng=-79.493468&sw_lat=43.607770&sw_lng=-79.499468&zoom=15&search_by_map=true
+2017-07-06 08:23 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.499468) - (43.613770, -79.493468) => All 3 rentals
+2017-07-06 08:23 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.488468&sw_lat=43.607770&sw_lng=-79.494468&zoom=15&search_by_map=true
+2017-07-06 08:23 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/9450894
+2017-07-06 08:23 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/9450894/personalization.json
+2017-07-06 08:23 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/14967843
+2017-07-06 08:23 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/14967843/personalization.json
+2017-07-06 08:23 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/4455897
+2017-07-06 08:23 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/4455897/personalization.json
+2017-07-06 08:24 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/1521082
+2017-07-06 08:24 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/1521082/personalization.json
+2017-07-06 08:24 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/15057938
+2017-07-06 08:24 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/15057938/personalization.json
+2017-07-06 08:24 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/14593752
+2017-07-06 08:24 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/14593752/personalization.json
+2017-07-06 08:24 - scrapex - airbnb - search_boundingbox() - INFO: Duplicated room_id -> 5706017
+2017-07-06 08:24 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=2&allow_override[]=&ne_lat=43.613770&ne_lng=-79.488468&sw_lat=43.607770&sw_lng=-79.494468&zoom=15&search_by_map=true
+2017-07-06 08:24 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.494468) - (43.613770, -79.488468) => All 7 rentals
+2017-07-06 08:24 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.483468&sw_lat=43.607770&sw_lng=-79.489468&zoom=15&search_by_map=true
+2017-07-06 08:24 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/17158194
+2017-07-06 08:24 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/17158194/personalization.json
+2017-07-06 08:24 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/5012399
+2017-07-06 08:24 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/5012399/personalization.json
+2017-07-06 08:24 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/885347
+2017-07-06 08:25 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/885347/personalization.json
+2017-07-06 08:25 - scrapex - airbnb - search_boundingbox() - INFO: Duplicated room_id -> 15057938
+2017-07-06 08:25 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/15321230
+2017-07-06 08:25 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/15321230/personalization.json
+2017-07-06 08:25 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=2&allow_override[]=&ne_lat=43.613770&ne_lng=-79.483468&sw_lat=43.607770&sw_lng=-79.489468&zoom=15&search_by_map=true
+2017-07-06 08:25 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.489468) - (43.613770, -79.483468) => All 5 rentals
+2017-07-06 08:25 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.478468&sw_lat=43.607770&sw_lng=-79.484468&zoom=15&search_by_map=true
+2017-07-06 08:25 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.484468) - (43.613770, -79.478468) => All 0 rentals
+2017-07-06 08:25 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.473468&sw_lat=43.607770&sw_lng=-79.479468&zoom=15&search_by_map=true
+2017-07-06 08:25 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.479468) - (43.613770, -79.473468) => All 0 rentals
+2017-07-06 08:25 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.468468&sw_lat=43.607770&sw_lng=-79.474468&zoom=15&search_by_map=true
+2017-07-06 08:25 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.474468) - (43.613770, -79.468468) => All 0 rentals
+2017-07-06 08:25 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.463468&sw_lat=43.607770&sw_lng=-79.469468&zoom=15&search_by_map=true
+2017-07-06 08:25 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.469468) - (43.613770, -79.463468) => All 0 rentals
+2017-07-06 08:25 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.458468&sw_lat=43.607770&sw_lng=-79.464468&zoom=15&search_by_map=true
+2017-07-06 08:25 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.464468) - (43.613770, -79.458468) => All 0 rentals
+2017-07-06 08:25 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.453468&sw_lat=43.607770&sw_lng=-79.459468&zoom=15&search_by_map=true
+2017-07-06 08:25 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.459468) - (43.613770, -79.453468) => All 0 rentals
+2017-07-06 08:25 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.448468&sw_lat=43.607770&sw_lng=-79.454468&zoom=15&search_by_map=true
+2017-07-06 08:25 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.454468) - (43.613770, -79.448468) => All 0 rentals
+2017-07-06 08:25 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.443468&sw_lat=43.607770&sw_lng=-79.449468&zoom=15&search_by_map=true
+2017-07-06 08:25 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.449468) - (43.613770, -79.443468) => All 0 rentals
+2017-07-06 08:25 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.438468&sw_lat=43.607770&sw_lng=-79.444468&zoom=15&search_by_map=true
+2017-07-06 08:25 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.444468) - (43.613770, -79.438468) => All 0 rentals
+2017-07-06 08:25 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.433468&sw_lat=43.607770&sw_lng=-79.439468&zoom=15&search_by_map=true
+2017-07-06 08:25 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.439468) - (43.613770, -79.433468) => All 0 rentals
+2017-07-06 08:25 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.428468&sw_lat=43.607770&sw_lng=-79.434468&zoom=15&search_by_map=true
+2017-07-06 08:25 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.434468) - (43.613770, -79.428468) => All 0 rentals
+2017-07-06 08:25 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.423468&sw_lat=43.607770&sw_lng=-79.429468&zoom=15&search_by_map=true
+2017-07-06 08:26 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.429468) - (43.613770, -79.423468) => All 0 rentals
+2017-07-06 08:26 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.418468&sw_lat=43.607770&sw_lng=-79.424468&zoom=15&search_by_map=true
+2017-07-06 08:26 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.424468) - (43.613770, -79.418468) => All 0 rentals
+2017-07-06 08:26 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.413468&sw_lat=43.607770&sw_lng=-79.419468&zoom=15&search_by_map=true
+2017-07-06 08:26 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.419468) - (43.613770, -79.413468) => All 0 rentals
+2017-07-06 08:26 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.408468&sw_lat=43.607770&sw_lng=-79.414468&zoom=15&search_by_map=true
+2017-07-06 08:26 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.414468) - (43.613770, -79.408468) => All 0 rentals
+2017-07-06 08:26 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.403468&sw_lat=43.607770&sw_lng=-79.409468&zoom=15&search_by_map=true
+2017-07-06 08:26 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.409468) - (43.613770, -79.403468) => All 0 rentals
+2017-07-06 08:26 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.398468&sw_lat=43.607770&sw_lng=-79.404468&zoom=15&search_by_map=true
+2017-07-06 08:26 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.404468) - (43.613770, -79.398468) => All 0 rentals
+2017-07-06 08:26 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.393468&sw_lat=43.607770&sw_lng=-79.399468&zoom=15&search_by_map=true
+2017-07-06 08:26 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.399468) - (43.613770, -79.393468) => All 0 rentals
+2017-07-06 08:26 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.388468&sw_lat=43.607770&sw_lng=-79.394468&zoom=15&search_by_map=true
+2017-07-06 08:26 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.394468) - (43.613770, -79.388468) => All 0 rentals
+2017-07-06 08:26 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.383468&sw_lat=43.607770&sw_lng=-79.389468&zoom=15&search_by_map=true
+2017-07-06 08:26 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.389468) - (43.613770, -79.383468) => All 0 rentals
+2017-07-06 08:26 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.378468&sw_lat=43.607770&sw_lng=-79.384468&zoom=15&search_by_map=true
+2017-07-06 08:26 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.384468) - (43.613770, -79.378468) => All 0 rentals
+2017-07-06 08:26 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.373468&sw_lat=43.607770&sw_lng=-79.379468&zoom=15&search_by_map=true
+2017-07-06 08:26 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.379468) - (43.613770, -79.373468) => All 0 rentals
+2017-07-06 08:26 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.368468&sw_lat=43.607770&sw_lng=-79.374468&zoom=15&search_by_map=true
+2017-07-06 08:26 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.374468) - (43.613770, -79.368468) => All 0 rentals
+2017-07-06 08:26 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.363468&sw_lat=43.607770&sw_lng=-79.369468&zoom=15&search_by_map=true
+2017-07-06 08:26 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.369468) - (43.613770, -79.363468) => All 0 rentals
+2017-07-06 08:26 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.358468&sw_lat=43.607770&sw_lng=-79.364468&zoom=15&search_by_map=true
+2017-07-06 08:26 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.364468) - (43.613770, -79.358468) => All 0 rentals
+2017-07-06 08:26 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.353468&sw_lat=43.607770&sw_lng=-79.359468&zoom=15&search_by_map=true
+2017-07-06 08:26 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.359468) - (43.613770, -79.353468) => All 0 rentals
+2017-07-06 08:26 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.348468&sw_lat=43.607770&sw_lng=-79.354468&zoom=15&search_by_map=true
+2017-07-06 08:26 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.354468) - (43.613770, -79.348468) => All 0 rentals
+2017-07-06 08:26 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.343468&sw_lat=43.607770&sw_lng=-79.349468&zoom=15&search_by_map=true
+2017-07-06 08:26 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.349468) - (43.613770, -79.343468) => All 0 rentals
+2017-07-06 08:26 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.338468&sw_lat=43.607770&sw_lng=-79.344468&zoom=15&search_by_map=true
+2017-07-06 08:26 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.344468) - (43.613770, -79.338468) => All 0 rentals
+2017-07-06 08:26 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.333468&sw_lat=43.607770&sw_lng=-79.339468&zoom=15&search_by_map=true
+2017-07-06 08:26 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.339468) - (43.613770, -79.333468) => All 0 rentals
+2017-07-06 08:26 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.328468&sw_lat=43.607770&sw_lng=-79.334468&zoom=15&search_by_map=true
+2017-07-06 08:26 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.334468) - (43.613770, -79.328468) => All 0 rentals
+2017-07-06 08:26 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.323468&sw_lat=43.607770&sw_lng=-79.329468&zoom=15&search_by_map=true
+2017-07-06 08:26 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.329468) - (43.613770, -79.323468) => All 0 rentals
+2017-07-06 08:26 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.318468&sw_lat=43.607770&sw_lng=-79.324468&zoom=15&search_by_map=true
+2017-07-06 08:27 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.324468) - (43.613770, -79.318468) => All 0 rentals
+2017-07-06 08:27 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.313468&sw_lat=43.607770&sw_lng=-79.319468&zoom=15&search_by_map=true
+2017-07-06 08:27 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.319468) - (43.613770, -79.313468) => All 0 rentals
+2017-07-06 08:27 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.308468&sw_lat=43.607770&sw_lng=-79.314468&zoom=15&search_by_map=true
+2017-07-06 08:27 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.314468) - (43.613770, -79.308468) => All 0 rentals
+2017-07-06 08:27 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.303468&sw_lat=43.607770&sw_lng=-79.309468&zoom=15&search_by_map=true
+2017-07-06 08:27 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.309468) - (43.613770, -79.303468) => All 0 rentals
+2017-07-06 08:27 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.298468&sw_lat=43.607770&sw_lng=-79.304468&zoom=15&search_by_map=true
+2017-07-06 08:27 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.304468) - (43.613770, -79.298468) => All 0 rentals
+2017-07-06 08:27 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.293468&sw_lat=43.607770&sw_lng=-79.299468&zoom=15&search_by_map=true
+2017-07-06 08:27 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.299468) - (43.613770, -79.293468) => All 0 rentals
+2017-07-06 08:27 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.288468&sw_lat=43.607770&sw_lng=-79.294468&zoom=15&search_by_map=true
+2017-07-06 08:27 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.294468) - (43.613770, -79.288468) => All 0 rentals
+2017-07-06 08:27 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.283468&sw_lat=43.607770&sw_lng=-79.289468&zoom=15&search_by_map=true
+2017-07-06 08:27 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.289468) - (43.613770, -79.283468) => All 0 rentals
+2017-07-06 08:27 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.278468&sw_lat=43.607770&sw_lng=-79.284468&zoom=15&search_by_map=true
+2017-07-06 08:27 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.284468) - (43.613770, -79.278468) => All 0 rentals
+2017-07-06 08:27 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.273468&sw_lat=43.607770&sw_lng=-79.279468&zoom=15&search_by_map=true
+2017-07-06 08:27 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.279468) - (43.613770, -79.273468) => All 0 rentals
+2017-07-06 08:27 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.268468&sw_lat=43.607770&sw_lng=-79.274468&zoom=15&search_by_map=true
+2017-07-06 08:27 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.274468) - (43.613770, -79.268468) => All 0 rentals
+2017-07-06 08:27 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.263468&sw_lat=43.607770&sw_lng=-79.269468&zoom=15&search_by_map=true
+2017-07-06 08:27 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.269468) - (43.613770, -79.263468) => All 0 rentals
+2017-07-06 08:27 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.258468&sw_lat=43.607770&sw_lng=-79.264468&zoom=15&search_by_map=true
+2017-07-06 08:27 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.264468) - (43.613770, -79.258468) => All 0 rentals
+2017-07-06 08:27 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.253468&sw_lat=43.607770&sw_lng=-79.259468&zoom=15&search_by_map=true
+2017-07-06 08:27 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.259468) - (43.613770, -79.253468) => All 0 rentals
+2017-07-06 08:27 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.248468&sw_lat=43.607770&sw_lng=-79.254468&zoom=15&search_by_map=true
+2017-07-06 08:27 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.254468) - (43.613770, -79.248468) => All 0 rentals
+2017-07-06 08:27 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.243468&sw_lat=43.607770&sw_lng=-79.249468&zoom=15&search_by_map=true
+2017-07-06 08:27 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.249468) - (43.613770, -79.243468) => All 0 rentals
+2017-07-06 08:27 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.238468&sw_lat=43.607770&sw_lng=-79.244468&zoom=15&search_by_map=true
+2017-07-06 08:27 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.244468) - (43.613770, -79.238468) => All 0 rentals
+2017-07-06 08:27 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.233468&sw_lat=43.607770&sw_lng=-79.239468&zoom=15&search_by_map=true
+2017-07-06 08:27 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.239468) - (43.613770, -79.233468) => All 0 rentals
+2017-07-06 08:27 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.228468&sw_lat=43.607770&sw_lng=-79.234468&zoom=15&search_by_map=true
+2017-07-06 08:27 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.234468) - (43.613770, -79.228468) => All 0 rentals
+2017-07-06 08:27 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.223468&sw_lat=43.607770&sw_lng=-79.229468&zoom=15&search_by_map=true
+2017-07-06 08:27 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.229468) - (43.613770, -79.223468) => All 0 rentals
+2017-07-06 08:27 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.218468&sw_lat=43.607770&sw_lng=-79.224468&zoom=15&search_by_map=true
+2017-07-06 08:27 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.224468) - (43.613770, -79.218468) => All 0 rentals
+2017-07-06 08:27 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.213468&sw_lat=43.607770&sw_lng=-79.219468&zoom=15&search_by_map=true
+2017-07-06 08:28 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.219468) - (43.613770, -79.213468) => All 0 rentals
+2017-07-06 08:28 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.208468&sw_lat=43.607770&sw_lng=-79.214468&zoom=15&search_by_map=true
+2017-07-06 08:28 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.214468) - (43.613770, -79.208468) => All 0 rentals
+2017-07-06 08:28 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.203468&sw_lat=43.607770&sw_lng=-79.209468&zoom=15&search_by_map=true
+2017-07-06 08:28 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.209468) - (43.613770, -79.203468) => All 0 rentals
+2017-07-06 08:28 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.198468&sw_lat=43.607770&sw_lng=-79.204468&zoom=15&search_by_map=true
+2017-07-06 08:28 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.204468) - (43.613770, -79.198468) => All 0 rentals
+2017-07-06 08:28 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.193468&sw_lat=43.607770&sw_lng=-79.199468&zoom=15&search_by_map=true
+2017-07-06 08:28 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.199468) - (43.613770, -79.193468) => All 0 rentals
+2017-07-06 08:28 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.188468&sw_lat=43.607770&sw_lng=-79.194468&zoom=15&search_by_map=true
+2017-07-06 08:28 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.194468) - (43.613770, -79.188468) => All 0 rentals
+2017-07-06 08:28 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.183468&sw_lat=43.607770&sw_lng=-79.189468&zoom=15&search_by_map=true
+2017-07-06 08:28 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.189468) - (43.613770, -79.183468) => All 0 rentals
+2017-07-06 08:28 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.178468&sw_lat=43.607770&sw_lng=-79.184468&zoom=15&search_by_map=true
+2017-07-06 08:28 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.184468) - (43.613770, -79.178468) => All 0 rentals
+2017-07-06 08:28 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.173468&sw_lat=43.607770&sw_lng=-79.179468&zoom=15&search_by_map=true
+2017-07-06 08:28 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.179468) - (43.613770, -79.173468) => All 0 rentals
+2017-07-06 08:28 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.168468&sw_lat=43.607770&sw_lng=-79.174468&zoom=15&search_by_map=true
+2017-07-06 08:28 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.174468) - (43.613770, -79.168468) => All 0 rentals
+2017-07-06 08:28 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.163468&sw_lat=43.607770&sw_lng=-79.169468&zoom=15&search_by_map=true
+2017-07-06 08:28 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.169468) - (43.613770, -79.163468) => All 0 rentals
+2017-07-06 08:28 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.158468&sw_lat=43.607770&sw_lng=-79.164468&zoom=15&search_by_map=true
+2017-07-06 08:28 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.164468) - (43.613770, -79.158468) => All 0 rentals
+2017-07-06 08:28 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.153468&sw_lat=43.607770&sw_lng=-79.159468&zoom=15&search_by_map=true
+2017-07-06 08:28 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.159468) - (43.613770, -79.153468) => All 0 rentals
+2017-07-06 08:28 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.148468&sw_lat=43.607770&sw_lng=-79.154468&zoom=15&search_by_map=true
+2017-07-06 08:28 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.154468) - (43.613770, -79.148468) => All 0 rentals
+2017-07-06 08:28 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.143468&sw_lat=43.607770&sw_lng=-79.149468&zoom=15&search_by_map=true
+2017-07-06 08:28 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.149468) - (43.613770, -79.143468) => All 0 rentals
+2017-07-06 08:28 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.613770&ne_lng=-79.138468&sw_lat=43.607770&sw_lng=-79.144468&zoom=15&search_by_map=true
+2017-07-06 08:28 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.607770, -79.144468) - (43.613770, -79.138468) => All 0 rentals
+2017-07-06 08:28 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.573468&sw_lat=43.612770&sw_lng=-79.579468&zoom=15&search_by_map=true
+2017-07-06 08:28 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.579468) - (43.618770, -79.573468) => All 0 rentals
+2017-07-06 08:28 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.568468&sw_lat=43.612770&sw_lng=-79.574468&zoom=15&search_by_map=true
+2017-07-06 08:28 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.574468) - (43.618770, -79.568468) => All 0 rentals
+2017-07-06 08:28 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.563468&sw_lat=43.612770&sw_lng=-79.569468&zoom=15&search_by_map=true
+2017-07-06 08:28 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.569468) - (43.618770, -79.563468) => All 0 rentals
+2017-07-06 08:28 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.558468&sw_lat=43.612770&sw_lng=-79.564468&zoom=15&search_by_map=true
+2017-07-06 08:28 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.564468) - (43.618770, -79.558468) => All 0 rentals
+2017-07-06 08:28 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.553468&sw_lat=43.612770&sw_lng=-79.559468&zoom=15&search_by_map=true
+2017-07-06 08:29 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.559468) - (43.618770, -79.553468) => All 0 rentals
+2017-07-06 08:29 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.548468&sw_lat=43.612770&sw_lng=-79.554468&zoom=15&search_by_map=true
+2017-07-06 08:29 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.554468) - (43.618770, -79.548468) => All 0 rentals
+2017-07-06 08:29 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.543468&sw_lat=43.612770&sw_lng=-79.549468&zoom=15&search_by_map=true
+2017-07-06 08:29 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.549468) - (43.618770, -79.543468) => All 0 rentals
+2017-07-06 08:29 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.538468&sw_lat=43.612770&sw_lng=-79.544468&zoom=15&search_by_map=true
+2017-07-06 08:29 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.544468) - (43.618770, -79.538468) => All 0 rentals
+2017-07-06 08:29 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.533468&sw_lat=43.612770&sw_lng=-79.539468&zoom=15&search_by_map=true
+2017-07-06 08:29 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.539468) - (43.618770, -79.533468) => All 0 rentals
+2017-07-06 08:29 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.528468&sw_lat=43.612770&sw_lng=-79.534468&zoom=15&search_by_map=true
+2017-07-06 08:29 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/8981694
+2017-07-06 08:29 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/8981694/personalization.json
+2017-07-06 08:29 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=2&allow_override[]=&ne_lat=43.618770&ne_lng=-79.528468&sw_lat=43.612770&sw_lng=-79.534468&zoom=15&search_by_map=true
+2017-07-06 08:29 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.534468) - (43.618770, -79.528468) => All 1 rentals
+2017-07-06 08:29 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.523468&sw_lat=43.612770&sw_lng=-79.529468&zoom=15&search_by_map=true
+2017-07-06 08:29 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.529468) - (43.618770, -79.523468) => All 0 rentals
+2017-07-06 08:29 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.518468&sw_lat=43.612770&sw_lng=-79.524468&zoom=15&search_by_map=true
+2017-07-06 08:29 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.524468) - (43.618770, -79.518468) => All 0 rentals
+2017-07-06 08:29 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.513468&sw_lat=43.612770&sw_lng=-79.519468&zoom=15&search_by_map=true
+2017-07-06 08:29 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.519468) - (43.618770, -79.513468) => All 0 rentals
+2017-07-06 08:29 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.508468&sw_lat=43.612770&sw_lng=-79.514468&zoom=15&search_by_map=true
+2017-07-06 08:29 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.514468) - (43.618770, -79.508468) => All 0 rentals
+2017-07-06 08:29 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.503468&sw_lat=43.612770&sw_lng=-79.509468&zoom=15&search_by_map=true
+2017-07-06 08:29 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/16349635
+2017-07-06 08:29 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/16349635/personalization.json
+2017-07-06 08:30 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/17190821
+2017-07-06 08:30 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/17190821/personalization.json
+2017-07-06 08:30 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/19271421
+2017-07-06 08:30 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/19271421/personalization.json
+2017-07-06 08:30 - scrapex - airbnb - search_boundingbox() - INFO: Duplicated room_id -> 18786273
+2017-07-06 08:30 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=2&allow_override[]=&ne_lat=43.618770&ne_lng=-79.503468&sw_lat=43.612770&sw_lng=-79.509468&zoom=15&search_by_map=true
+2017-07-06 08:30 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.509468) - (43.618770, -79.503468) => All 4 rentals
+2017-07-06 08:30 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.498468&sw_lat=43.612770&sw_lng=-79.504468&zoom=15&search_by_map=true
+2017-07-06 08:30 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/14126501
+2017-07-06 08:30 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/14126501/personalization.json
+2017-07-06 08:30 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/10955528
+2017-07-06 08:31 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/10955528/personalization.json
+2017-07-06 08:31 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=2&allow_override[]=&ne_lat=43.618770&ne_lng=-79.498468&sw_lat=43.612770&sw_lng=-79.504468&zoom=15&search_by_map=true
+2017-07-06 08:31 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.504468) - (43.618770, -79.498468) => All 2 rentals
+2017-07-06 08:31 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.493468&sw_lat=43.612770&sw_lng=-79.499468&zoom=15&search_by_map=true
+2017-07-06 08:31 - scrapex - airbnb - search_boundingbox() - INFO: Duplicated room_id -> 14126501
+2017-07-06 08:31 - scrapex - airbnb - search_boundingbox() - INFO: Duplicated room_id -> 7676729
+2017-07-06 08:31 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=2&allow_override[]=&ne_lat=43.618770&ne_lng=-79.493468&sw_lat=43.612770&sw_lng=-79.499468&zoom=15&search_by_map=true
+2017-07-06 08:31 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.499468) - (43.618770, -79.493468) => All 2 rentals
+2017-07-06 08:31 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.488468&sw_lat=43.612770&sw_lng=-79.494468&zoom=15&search_by_map=true
+2017-07-06 08:31 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/18681182
+2017-07-06 08:31 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/18681182/personalization.json
+2017-07-06 08:31 - scrapex - airbnb - search_boundingbox() - INFO: Duplicated room_id -> 14967843
+2017-07-06 08:31 - scrapex - airbnb - search_boundingbox() - INFO: Duplicated room_id -> 4455897
+2017-07-06 08:31 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/7321381
+2017-07-06 08:31 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/7321381/personalization.json
+2017-07-06 08:31 - scrapex - airbnb - search_boundingbox() - INFO: Duplicated room_id -> 1521082
+2017-07-06 08:31 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/17192041
+2017-07-06 08:31 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/17192041/personalization.json
+2017-07-06 08:31 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/17531847
+2017-07-06 08:31 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/17531847/personalization.json
+2017-07-06 08:31 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/17141893
+2017-07-06 08:32 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/17141893/personalization.json
+2017-07-06 08:32 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/7239136
+2017-07-06 08:32 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/7239136/personalization.json
+2017-07-06 08:32 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=2&allow_override[]=&ne_lat=43.618770&ne_lng=-79.488468&sw_lat=43.612770&sw_lng=-79.494468&zoom=15&search_by_map=true
+2017-07-06 08:32 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.494468) - (43.618770, -79.488468) => All 9 rentals
+2017-07-06 08:32 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.483468&sw_lat=43.612770&sw_lng=-79.489468&zoom=15&search_by_map=true
+2017-07-06 08:32 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/19680294
+2017-07-06 08:32 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/19680294/personalization.json
+2017-07-06 08:32 - scrapex - airbnb - search_boundingbox() - INFO: Duplicated room_id -> 7239136
+2017-07-06 08:32 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/9993672
+2017-07-06 08:32 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/9993672/personalization.json
+2017-07-06 08:32 - scrapex - airbnb - search_boundingbox() - INFO: Duplicated room_id -> 17141893
+2017-07-06 08:32 - scrapex - airbnb - search_boundingbox() - INFO: Duplicated room_id -> 885347
+2017-07-06 08:32 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=2&allow_override[]=&ne_lat=43.618770&ne_lng=-79.483468&sw_lat=43.612770&sw_lng=-79.489468&zoom=15&search_by_map=true
+2017-07-06 08:32 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.489468) - (43.618770, -79.483468) => All 5 rentals
+2017-07-06 08:32 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.478468&sw_lat=43.612770&sw_lng=-79.484468&zoom=15&search_by_map=true
+2017-07-06 08:32 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/4728636
+2017-07-06 08:32 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/4728636/personalization.json
+2017-07-06 08:32 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=2&allow_override[]=&ne_lat=43.618770&ne_lng=-79.478468&sw_lat=43.612770&sw_lng=-79.484468&zoom=15&search_by_map=true
+2017-07-06 08:32 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.484468) - (43.618770, -79.478468) => All 1 rentals
+2017-07-06 08:32 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.473468&sw_lat=43.612770&sw_lng=-79.479468&zoom=15&search_by_map=true
+2017-07-06 08:32 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.479468) - (43.618770, -79.473468) => All 0 rentals
+2017-07-06 08:32 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.468468&sw_lat=43.612770&sw_lng=-79.474468&zoom=15&search_by_map=true
+2017-07-06 08:32 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.474468) - (43.618770, -79.468468) => All 0 rentals
+2017-07-06 08:32 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.463468&sw_lat=43.612770&sw_lng=-79.469468&zoom=15&search_by_map=true
+2017-07-06 08:33 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.469468) - (43.618770, -79.463468) => All 0 rentals
+2017-07-06 08:33 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.458468&sw_lat=43.612770&sw_lng=-79.464468&zoom=15&search_by_map=true
+2017-07-06 08:33 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.464468) - (43.618770, -79.458468) => All 0 rentals
+2017-07-06 08:33 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.453468&sw_lat=43.612770&sw_lng=-79.459468&zoom=15&search_by_map=true
+2017-07-06 08:33 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.459468) - (43.618770, -79.453468) => All 0 rentals
+2017-07-06 08:33 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.448468&sw_lat=43.612770&sw_lng=-79.454468&zoom=15&search_by_map=true
+2017-07-06 08:33 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.454468) - (43.618770, -79.448468) => All 0 rentals
+2017-07-06 08:33 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.443468&sw_lat=43.612770&sw_lng=-79.449468&zoom=15&search_by_map=true
+2017-07-06 08:33 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.449468) - (43.618770, -79.443468) => All 0 rentals
+2017-07-06 08:33 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.438468&sw_lat=43.612770&sw_lng=-79.444468&zoom=15&search_by_map=true
+2017-07-06 08:33 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.444468) - (43.618770, -79.438468) => All 0 rentals
+2017-07-06 08:33 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.433468&sw_lat=43.612770&sw_lng=-79.439468&zoom=15&search_by_map=true
+2017-07-06 08:33 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.439468) - (43.618770, -79.433468) => All 0 rentals
+2017-07-06 08:33 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.428468&sw_lat=43.612770&sw_lng=-79.434468&zoom=15&search_by_map=true
+2017-07-06 08:33 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.434468) - (43.618770, -79.428468) => All 0 rentals
+2017-07-06 08:33 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.423468&sw_lat=43.612770&sw_lng=-79.429468&zoom=15&search_by_map=true
+2017-07-06 08:33 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.429468) - (43.618770, -79.423468) => All 0 rentals
+2017-07-06 08:33 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.418468&sw_lat=43.612770&sw_lng=-79.424468&zoom=15&search_by_map=true
+2017-07-06 08:33 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.424468) - (43.618770, -79.418468) => All 0 rentals
+2017-07-06 08:33 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.413468&sw_lat=43.612770&sw_lng=-79.419468&zoom=15&search_by_map=true
+2017-07-06 08:33 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.419468) - (43.618770, -79.413468) => All 0 rentals
+2017-07-06 08:33 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.408468&sw_lat=43.612770&sw_lng=-79.414468&zoom=15&search_by_map=true
+2017-07-06 08:33 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.414468) - (43.618770, -79.408468) => All 0 rentals
+2017-07-06 08:33 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.403468&sw_lat=43.612770&sw_lng=-79.409468&zoom=15&search_by_map=true
+2017-07-06 08:33 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.409468) - (43.618770, -79.403468) => All 0 rentals
+2017-07-06 08:33 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.398468&sw_lat=43.612770&sw_lng=-79.404468&zoom=15&search_by_map=true
+2017-07-06 08:33 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.404468) - (43.618770, -79.398468) => All 0 rentals
+2017-07-06 08:33 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.393468&sw_lat=43.612770&sw_lng=-79.399468&zoom=15&search_by_map=true
+2017-07-06 08:33 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.399468) - (43.618770, -79.393468) => All 0 rentals
+2017-07-06 08:33 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.388468&sw_lat=43.612770&sw_lng=-79.394468&zoom=15&search_by_map=true
+2017-07-06 08:34 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.394468) - (43.618770, -79.388468) => All 0 rentals
+2017-07-06 08:34 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.383468&sw_lat=43.612770&sw_lng=-79.389468&zoom=15&search_by_map=true
+2017-07-06 08:34 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.389468) - (43.618770, -79.383468) => All 0 rentals
+2017-07-06 08:34 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.378468&sw_lat=43.612770&sw_lng=-79.384468&zoom=15&search_by_map=true
+2017-07-06 08:34 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.384468) - (43.618770, -79.378468) => All 0 rentals
+2017-07-06 08:34 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.373468&sw_lat=43.612770&sw_lng=-79.379468&zoom=15&search_by_map=true
+2017-07-06 08:34 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/14882741
+2017-07-06 08:34 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/14882741/personalization.json
+2017-07-06 08:34 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=2&allow_override[]=&ne_lat=43.618770&ne_lng=-79.373468&sw_lat=43.612770&sw_lng=-79.379468&zoom=15&search_by_map=true
+2017-07-06 08:34 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.379468) - (43.618770, -79.373468) => All 1 rentals
+2017-07-06 08:34 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.368468&sw_lat=43.612770&sw_lng=-79.374468&zoom=15&search_by_map=true
+2017-07-06 08:34 - scrapex - airbnb - search_boundingbox() - INFO: Duplicated room_id -> 14882741
+2017-07-06 08:34 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=2&allow_override[]=&ne_lat=43.618770&ne_lng=-79.368468&sw_lat=43.612770&sw_lng=-79.374468&zoom=15&search_by_map=true
+2017-07-06 08:34 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.374468) - (43.618770, -79.368468) => All 1 rentals
+2017-07-06 08:34 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.363468&sw_lat=43.612770&sw_lng=-79.369468&zoom=15&search_by_map=true
+2017-07-06 08:34 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.369468) - (43.618770, -79.363468) => All 0 rentals
+2017-07-06 08:34 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.358468&sw_lat=43.612770&sw_lng=-79.364468&zoom=15&search_by_map=true
+2017-07-06 08:34 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.364468) - (43.618770, -79.358468) => All 0 rentals
+2017-07-06 08:34 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.353468&sw_lat=43.612770&sw_lng=-79.359468&zoom=15&search_by_map=true
+2017-07-06 08:34 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.359468) - (43.618770, -79.353468) => All 0 rentals
+2017-07-06 08:34 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.348468&sw_lat=43.612770&sw_lng=-79.354468&zoom=15&search_by_map=true
+2017-07-06 08:34 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.354468) - (43.618770, -79.348468) => All 0 rentals
+2017-07-06 08:34 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.343468&sw_lat=43.612770&sw_lng=-79.349468&zoom=15&search_by_map=true
+2017-07-06 08:34 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.349468) - (43.618770, -79.343468) => All 0 rentals
+2017-07-06 08:34 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.338468&sw_lat=43.612770&sw_lng=-79.344468&zoom=15&search_by_map=true
+2017-07-06 08:35 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.344468) - (43.618770, -79.338468) => All 0 rentals
+2017-07-06 08:35 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.333468&sw_lat=43.612770&sw_lng=-79.339468&zoom=15&search_by_map=true
+2017-07-06 08:35 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.339468) - (43.618770, -79.333468) => All 0 rentals
+2017-07-06 08:35 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.328468&sw_lat=43.612770&sw_lng=-79.334468&zoom=15&search_by_map=true
+2017-07-06 08:35 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.334468) - (43.618770, -79.328468) => All 0 rentals
+2017-07-06 08:35 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.323468&sw_lat=43.612770&sw_lng=-79.329468&zoom=15&search_by_map=true
+2017-07-06 08:35 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.329468) - (43.618770, -79.323468) => All 0 rentals
+2017-07-06 08:35 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.318468&sw_lat=43.612770&sw_lng=-79.324468&zoom=15&search_by_map=true
+2017-07-06 08:35 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.324468) - (43.618770, -79.318468) => All 0 rentals
+2017-07-06 08:35 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.313468&sw_lat=43.612770&sw_lng=-79.319468&zoom=15&search_by_map=true
+2017-07-06 08:35 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.319468) - (43.618770, -79.313468) => All 0 rentals
+2017-07-06 08:35 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.308468&sw_lat=43.612770&sw_lng=-79.314468&zoom=15&search_by_map=true
+2017-07-06 08:35 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.314468) - (43.618770, -79.308468) => All 0 rentals
+2017-07-06 08:35 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.303468&sw_lat=43.612770&sw_lng=-79.309468&zoom=15&search_by_map=true
+2017-07-06 08:35 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.309468) - (43.618770, -79.303468) => All 0 rentals
+2017-07-06 08:35 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.298468&sw_lat=43.612770&sw_lng=-79.304468&zoom=15&search_by_map=true
+2017-07-06 08:35 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.304468) - (43.618770, -79.298468) => All 0 rentals
+2017-07-06 08:35 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.293468&sw_lat=43.612770&sw_lng=-79.299468&zoom=15&search_by_map=true
+2017-07-06 08:35 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.299468) - (43.618770, -79.293468) => All 0 rentals
+2017-07-06 08:35 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.288468&sw_lat=43.612770&sw_lng=-79.294468&zoom=15&search_by_map=true
+2017-07-06 08:35 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.294468) - (43.618770, -79.288468) => All 0 rentals
+2017-07-06 08:35 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.283468&sw_lat=43.612770&sw_lng=-79.289468&zoom=15&search_by_map=true
+2017-07-06 08:35 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.289468) - (43.618770, -79.283468) => All 0 rentals
+2017-07-06 08:35 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.278468&sw_lat=43.612770&sw_lng=-79.284468&zoom=15&search_by_map=true
+2017-07-06 08:35 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.284468) - (43.618770, -79.278468) => All 0 rentals
+2017-07-06 08:35 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.273468&sw_lat=43.612770&sw_lng=-79.279468&zoom=15&search_by_map=true
+2017-07-06 08:36 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.279468) - (43.618770, -79.273468) => All 0 rentals
+2017-07-06 08:36 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.268468&sw_lat=43.612770&sw_lng=-79.274468&zoom=15&search_by_map=true
+2017-07-06 08:36 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.274468) - (43.618770, -79.268468) => All 0 rentals
+2017-07-06 08:36 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.263468&sw_lat=43.612770&sw_lng=-79.269468&zoom=15&search_by_map=true
+2017-07-06 08:36 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.269468) - (43.618770, -79.263468) => All 0 rentals
+2017-07-06 08:36 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.258468&sw_lat=43.612770&sw_lng=-79.264468&zoom=15&search_by_map=true
+2017-07-06 08:36 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.264468) - (43.618770, -79.258468) => All 0 rentals
+2017-07-06 08:36 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.253468&sw_lat=43.612770&sw_lng=-79.259468&zoom=15&search_by_map=true
+2017-07-06 08:36 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.259468) - (43.618770, -79.253468) => All 0 rentals
+2017-07-06 08:36 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.248468&sw_lat=43.612770&sw_lng=-79.254468&zoom=15&search_by_map=true
+2017-07-06 08:36 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.254468) - (43.618770, -79.248468) => All 0 rentals
+2017-07-06 08:36 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.243468&sw_lat=43.612770&sw_lng=-79.249468&zoom=15&search_by_map=true
+2017-07-06 08:36 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.249468) - (43.618770, -79.243468) => All 0 rentals
+2017-07-06 08:36 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.238468&sw_lat=43.612770&sw_lng=-79.244468&zoom=15&search_by_map=true
+2017-07-06 08:36 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.244468) - (43.618770, -79.238468) => All 0 rentals
+2017-07-06 08:36 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.233468&sw_lat=43.612770&sw_lng=-79.239468&zoom=15&search_by_map=true
+2017-07-06 08:36 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.239468) - (43.618770, -79.233468) => All 0 rentals
+2017-07-06 08:36 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.228468&sw_lat=43.612770&sw_lng=-79.234468&zoom=15&search_by_map=true
+2017-07-06 08:36 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.234468) - (43.618770, -79.228468) => All 0 rentals
+2017-07-06 08:36 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.223468&sw_lat=43.612770&sw_lng=-79.229468&zoom=15&search_by_map=true
+2017-07-06 08:36 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.229468) - (43.618770, -79.223468) => All 0 rentals
+2017-07-06 08:36 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.218468&sw_lat=43.612770&sw_lng=-79.224468&zoom=15&search_by_map=true
+2017-07-06 08:36 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.224468) - (43.618770, -79.218468) => All 0 rentals
+2017-07-06 08:36 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.213468&sw_lat=43.612770&sw_lng=-79.219468&zoom=15&search_by_map=true
+2017-07-06 08:36 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.219468) - (43.618770, -79.213468) => All 0 rentals
+2017-07-06 08:36 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.208468&sw_lat=43.612770&sw_lng=-79.214468&zoom=15&search_by_map=true
+2017-07-06 08:36 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.214468) - (43.618770, -79.208468) => All 0 rentals
+2017-07-06 08:36 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.203468&sw_lat=43.612770&sw_lng=-79.209468&zoom=15&search_by_map=true
+2017-07-06 08:37 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.209468) - (43.618770, -79.203468) => All 0 rentals
+2017-07-06 08:37 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.198468&sw_lat=43.612770&sw_lng=-79.204468&zoom=15&search_by_map=true
+2017-07-06 08:37 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.204468) - (43.618770, -79.198468) => All 0 rentals
+2017-07-06 08:37 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.193468&sw_lat=43.612770&sw_lng=-79.199468&zoom=15&search_by_map=true
+2017-07-06 08:37 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.199468) - (43.618770, -79.193468) => All 0 rentals
+2017-07-06 08:37 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.188468&sw_lat=43.612770&sw_lng=-79.194468&zoom=15&search_by_map=true
+2017-07-06 08:37 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.194468) - (43.618770, -79.188468) => All 0 rentals
+2017-07-06 08:37 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.183468&sw_lat=43.612770&sw_lng=-79.189468&zoom=15&search_by_map=true
+2017-07-06 08:37 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.189468) - (43.618770, -79.183468) => All 0 rentals
+2017-07-06 08:37 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.178468&sw_lat=43.612770&sw_lng=-79.184468&zoom=15&search_by_map=true
+2017-07-06 08:37 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.184468) - (43.618770, -79.178468) => All 0 rentals
+2017-07-06 08:37 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.173468&sw_lat=43.612770&sw_lng=-79.179468&zoom=15&search_by_map=true
+2017-07-06 08:37 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.179468) - (43.618770, -79.173468) => All 0 rentals
+2017-07-06 08:37 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.168468&sw_lat=43.612770&sw_lng=-79.174468&zoom=15&search_by_map=true
+2017-07-06 08:37 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.174468) - (43.618770, -79.168468) => All 0 rentals
+2017-07-06 08:37 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.163468&sw_lat=43.612770&sw_lng=-79.169468&zoom=15&search_by_map=true
+2017-07-06 08:37 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.169468) - (43.618770, -79.163468) => All 0 rentals
+2017-07-06 08:37 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.158468&sw_lat=43.612770&sw_lng=-79.164468&zoom=15&search_by_map=true
+2017-07-06 08:37 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.164468) - (43.618770, -79.158468) => All 0 rentals
+2017-07-06 08:37 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.153468&sw_lat=43.612770&sw_lng=-79.159468&zoom=15&search_by_map=true
+2017-07-06 08:37 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.159468) - (43.618770, -79.153468) => All 0 rentals
+2017-07-06 08:37 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.148468&sw_lat=43.612770&sw_lng=-79.154468&zoom=15&search_by_map=true
+2017-07-06 08:37 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.154468) - (43.618770, -79.148468) => All 0 rentals
+2017-07-06 08:37 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.143468&sw_lat=43.612770&sw_lng=-79.149468&zoom=15&search_by_map=true
+2017-07-06 08:37 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.149468) - (43.618770, -79.143468) => All 0 rentals
+2017-07-06 08:37 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.618770&ne_lng=-79.138468&sw_lat=43.612770&sw_lng=-79.144468&zoom=15&search_by_map=true
+2017-07-06 08:37 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.612770, -79.144468) - (43.618770, -79.138468) => All 0 rentals
+2017-07-06 08:37 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.623770&ne_lng=-79.573468&sw_lat=43.617770&sw_lng=-79.579468&zoom=15&search_by_map=true
+2017-07-06 08:37 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.617770, -79.579468) - (43.623770, -79.573468) => All 0 rentals
+2017-07-06 08:37 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.623770&ne_lng=-79.568468&sw_lat=43.617770&sw_lng=-79.574468&zoom=15&search_by_map=true
+2017-07-06 08:37 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.617770, -79.574468) - (43.623770, -79.568468) => All 0 rentals
+2017-07-06 08:37 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.623770&ne_lng=-79.563468&sw_lat=43.617770&sw_lng=-79.569468&zoom=15&search_by_map=true
+2017-07-06 08:37 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.617770, -79.569468) - (43.623770, -79.563468) => All 0 rentals
+2017-07-06 08:37 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.623770&ne_lng=-79.558468&sw_lat=43.617770&sw_lng=-79.564468&zoom=15&search_by_map=true
+2017-07-06 08:38 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.617770, -79.564468) - (43.623770, -79.558468) => All 0 rentals
+2017-07-06 08:38 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.623770&ne_lng=-79.553468&sw_lat=43.617770&sw_lng=-79.559468&zoom=15&search_by_map=true
+2017-07-06 08:38 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.617770, -79.559468) - (43.623770, -79.553468) => All 0 rentals
+2017-07-06 08:38 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.623770&ne_lng=-79.548468&sw_lat=43.617770&sw_lng=-79.554468&zoom=15&search_by_map=true
+2017-07-06 08:38 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.617770, -79.554468) - (43.623770, -79.548468) => All 0 rentals
+2017-07-06 08:38 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.623770&ne_lng=-79.543468&sw_lat=43.617770&sw_lng=-79.549468&zoom=15&search_by_map=true
+2017-07-06 08:38 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.617770, -79.549468) - (43.623770, -79.543468) => All 0 rentals
+2017-07-06 08:38 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.623770&ne_lng=-79.538468&sw_lat=43.617770&sw_lng=-79.544468&zoom=15&search_by_map=true
+2017-07-06 08:38 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.617770, -79.544468) - (43.623770, -79.538468) => All 0 rentals
+2017-07-06 08:38 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.623770&ne_lng=-79.533468&sw_lat=43.617770&sw_lng=-79.539468&zoom=15&search_by_map=true
+2017-07-06 08:38 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.617770, -79.539468) - (43.623770, -79.533468) => All 0 rentals
+2017-07-06 08:38 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.623770&ne_lng=-79.528468&sw_lat=43.617770&sw_lng=-79.534468&zoom=15&search_by_map=true
+2017-07-06 08:38 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.617770, -79.534468) - (43.623770, -79.528468) => All 0 rentals
+2017-07-06 08:38 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.623770&ne_lng=-79.523468&sw_lat=43.617770&sw_lng=-79.529468&zoom=15&search_by_map=true
+2017-07-06 08:38 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.617770, -79.529468) - (43.623770, -79.523468) => All 0 rentals
+2017-07-06 08:38 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.623770&ne_lng=-79.518468&sw_lat=43.617770&sw_lng=-79.524468&zoom=15&search_by_map=true
+2017-07-06 08:38 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/8239154
+2017-07-06 08:38 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/8239154/personalization.json
+2017-07-06 08:38 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/14446537
+2017-07-06 08:39 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/14446537/personalization.json
+2017-07-06 08:39 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/13842395
+2017-07-06 08:39 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/13842395/personalization.json
+2017-07-06 08:39 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=2&allow_override[]=&ne_lat=43.623770&ne_lng=-79.518468&sw_lat=43.617770&sw_lng=-79.524468&zoom=15&search_by_map=true
+2017-07-06 08:39 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.617770, -79.524468) - (43.623770, -79.518468) => All 3 rentals
+2017-07-06 08:39 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.623770&ne_lng=-79.513468&sw_lat=43.617770&sw_lng=-79.519468&zoom=15&search_by_map=true
+2017-07-06 08:39 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/9598148
+2017-07-06 08:39 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/9598148/personalization.json
+2017-07-06 08:39 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=2&allow_override[]=&ne_lat=43.623770&ne_lng=-79.513468&sw_lat=43.617770&sw_lng=-79.519468&zoom=15&search_by_map=true
+2017-07-06 08:39 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.617770, -79.519468) - (43.623770, -79.513468) => All 1 rentals
+2017-07-06 08:39 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.623770&ne_lng=-79.508468&sw_lat=43.617770&sw_lng=-79.514468&zoom=15&search_by_map=true
+2017-07-06 08:39 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/14594478
+2017-07-06 08:39 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/14594478/personalization.json
+2017-07-06 08:39 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/14595346
+2017-07-06 08:39 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/14595346/personalization.json
+2017-07-06 08:39 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=2&allow_override[]=&ne_lat=43.623770&ne_lng=-79.508468&sw_lat=43.617770&sw_lng=-79.514468&zoom=15&search_by_map=true
+2017-07-06 08:40 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.617770, -79.514468) - (43.623770, -79.508468) => All 2 rentals
+2017-07-06 08:40 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.623770&ne_lng=-79.503468&sw_lat=43.617770&sw_lng=-79.509468&zoom=15&search_by_map=true
+2017-07-06 08:40 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/19272035
+2017-07-06 08:40 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/19272035/personalization.json
+2017-07-06 08:40 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/14615293
+2017-07-06 08:40 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/14615293/personalization.json
+2017-07-06 08:40 - scrapex - airbnb - search_boundingbox() - INFO: Duplicated room_id -> 19271421
+2017-07-06 08:40 - scrapex - airbnb - search_boundingbox() - INFO: Duplicated room_id -> 14594478
+2017-07-06 08:40 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/15634524
+2017-07-06 08:40 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/15634524/personalization.json
+2017-07-06 08:40 - scrapex - airbnb - search_boundingbox() - INFO: Duplicated room_id -> 14595346
+2017-07-06 08:40 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=2&allow_override[]=&ne_lat=43.623770&ne_lng=-79.503468&sw_lat=43.617770&sw_lng=-79.509468&zoom=15&search_by_map=true
+2017-07-06 08:40 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.617770, -79.509468) - (43.623770, -79.503468) => All 6 rentals
+2017-07-06 08:40 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.623770&ne_lng=-79.498468&sw_lat=43.617770&sw_lng=-79.504468&zoom=15&search_by_map=true
+2017-07-06 08:40 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/14126875
+2017-07-06 08:40 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/14126875/personalization.json
+2017-07-06 08:40 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/15610888
+2017-07-06 08:41 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/15610888/personalization.json
+2017-07-06 08:41 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/14025021
+2017-07-06 08:41 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/14025021/personalization.json
+2017-07-06 08:41 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/13249281
+2017-07-06 08:41 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/13249281/personalization.json
+2017-07-06 08:41 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/8044346
+2017-07-06 08:41 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/8044346/personalization.json
+2017-07-06 08:41 - scrapex - airbnb - search_boundingbox() - INFO: Duplicated room_id -> 19272035
+2017-07-06 08:41 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=2&allow_override[]=&ne_lat=43.623770&ne_lng=-79.498468&sw_lat=43.617770&sw_lng=-79.504468&zoom=15&search_by_map=true
+2017-07-06 08:41 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.617770, -79.504468) - (43.623770, -79.498468) => All 6 rentals
+2017-07-06 08:41 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.623770&ne_lng=-79.493468&sw_lat=43.617770&sw_lng=-79.499468&zoom=15&search_by_map=true
+2017-07-06 08:41 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/18359965
+2017-07-06 08:41 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/18359965/personalization.json
+2017-07-06 08:41 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/13705156
+2017-07-06 08:41 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/13705156/personalization.json
+2017-07-06 08:42 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/15052013
+2017-07-06 08:42 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/15052013/personalization.json
+2017-07-06 08:42 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/5230742
+2017-07-06 08:42 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/5230742/personalization.json
+2017-07-06 08:42 - scrapex - airbnb - search_boundingbox() - INFO: Duplicated room_id -> 13249281
+2017-07-06 08:42 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=2&allow_override[]=&ne_lat=43.623770&ne_lng=-79.493468&sw_lat=43.617770&sw_lng=-79.499468&zoom=15&search_by_map=true
+2017-07-06 08:42 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.617770, -79.499468) - (43.623770, -79.493468) => All 5 rentals
+2017-07-06 08:42 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.623770&ne_lng=-79.488468&sw_lat=43.617770&sw_lng=-79.494468&zoom=15&search_by_map=true
+2017-07-06 08:42 - scrapex - airbnb - search_boundingbox() - INFO: Duplicated room_id -> 18359965
+2017-07-06 08:42 - scrapex - airbnb - search_boundingbox() - INFO: Duplicated room_id -> 5230742
+2017-07-06 08:42 - scrapex - airbnb - search_boundingbox() - INFO: Duplicated room_id -> 17531847
+2017-07-06 08:42 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/7784671
+2017-07-06 08:42 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/7784671/personalization.json
+2017-07-06 08:42 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/13279451
+2017-07-06 08:42 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/13279451/personalization.json
+2017-07-06 08:42 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/16635005
+2017-07-06 08:43 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/16635005/personalization.json
+2017-07-06 08:43 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=2&allow_override[]=&ne_lat=43.623770&ne_lng=-79.488468&sw_lat=43.617770&sw_lng=-79.494468&zoom=15&search_by_map=true
+2017-07-06 08:43 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.617770, -79.494468) - (43.623770, -79.488468) => All 6 rentals
+2017-07-06 08:43 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.623770&ne_lng=-79.483468&sw_lat=43.617770&sw_lng=-79.489468&zoom=15&search_by_map=true
+2017-07-06 08:43 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/11324869
+2017-07-06 08:43 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/11324869/personalization.json
+2017-07-06 08:43 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/17514315
+2017-07-06 08:43 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/17514315/personalization.json
+2017-07-06 08:43 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/1876893
+2017-07-06 08:43 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/1876893/personalization.json
+2017-07-06 08:43 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/13080520
+2017-07-06 08:43 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/13080520/personalization.json
+2017-07-06 08:44 - scrapex - airbnb - search_boundingbox() - INFO: Duplicated room_id -> 19680294
+2017-07-06 08:44 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/18077255
+2017-07-06 08:44 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/18077255/personalization.json
+2017-07-06 08:44 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/10248090
+2017-07-06 08:44 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/10248090/personalization.json
+2017-07-06 08:44 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/7213888
+2017-07-06 08:44 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/7213888/personalization.json
+2017-07-06 08:44 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/6968292
+2017-07-06 08:44 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/6968292/personalization.json
+2017-07-06 08:44 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/18062027
+2017-07-06 08:45 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/18062027/personalization.json
+2017-07-06 08:45 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/16792551
+2017-07-06 08:45 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/16792551/personalization.json
+2017-07-06 08:45 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/17890303
+2017-07-06 08:45 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/17890303/personalization.json
+2017-07-06 08:45 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/18946244
+2017-07-06 08:45 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/18946244/personalization.json
+2017-07-06 08:45 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/9609957
+2017-07-06 08:45 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/9609957/personalization.json
+2017-07-06 08:45 - scrapex - airbnb - search_boundingbox() - INFO: Duplicated room_id -> 7784671
+2017-07-06 08:45 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/7036299
+2017-07-06 08:45 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/7036299/personalization.json
+2017-07-06 08:46 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/14250721
+2017-07-06 08:46 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/14250721/personalization.json
+2017-07-06 08:46 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/1365638
+2017-07-06 08:46 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/1365638/personalization.json
+2017-07-06 08:46 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=2&allow_override[]=&ne_lat=43.623770&ne_lng=-79.483468&sw_lat=43.617770&sw_lng=-79.489468&zoom=15&search_by_map=true
+2017-07-06 08:46 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/10475738
+2017-07-06 08:46 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/10475738/personalization.json
+2017-07-06 08:46 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/13955657
+2017-07-06 08:46 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/13955657/personalization.json
+2017-07-06 08:46 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/2221414
+2017-07-06 08:46 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/2221414/personalization.json
+2017-07-06 08:46 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/4120199
+2017-07-06 08:46 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/4120199/personalization.json
+2017-07-06 08:47 - scrapex - airbnb - search_boundingbox() - INFO: Duplicated room_id -> 16635005
+2017-07-06 08:47 - scrapex - airbnb - search_boundingbox() - INFO: Duplicated room_id -> 13279451
+2017-07-06 08:47 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/18870052
+2017-07-06 08:47 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/18870052/personalization.json
+2017-07-06 08:47 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/2735791
+2017-07-06 08:47 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/2735791/personalization.json
+2017-07-06 08:47 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/1240669
+2017-07-06 08:47 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/1240669/personalization.json
+2017-07-06 08:47 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=3&allow_override[]=&ne_lat=43.623770&ne_lng=-79.483468&sw_lat=43.617770&sw_lng=-79.489468&zoom=15&search_by_map=true
+2017-07-06 08:47 - scrapex - airbnb - search_boundingbox() - INFO: region: (43.617770, -79.489468) - (43.623770, -79.483468) => All 27 rentals
+2017-07-06 08:47 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/search/search_results?page=1&allow_override[]=&ne_lat=43.623770&ne_lng=-79.478468&sw_lat=43.617770&sw_lng=-79.484468&zoom=15&search_by_map=true
+2017-07-06 08:47 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.airbnb.com/rooms/17463470
+2017-07-06 08:47 - scrapex.core - core - __del__() - INFO: Completed successfully
+2017-07-06 08:47 - scrapex.core - core - __del__() - INFO: time elapsed: 38.0 minutes 19.17 seconds
